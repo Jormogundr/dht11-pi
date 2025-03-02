@@ -1,4 +1,5 @@
 adafruit-blinka
 adafruit-circuitpython-dht
+AWSIoTPythonSDK
 board
-paho-mqtt
+boto3
